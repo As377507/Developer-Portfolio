@@ -1,4 +1,4 @@
-# Akash Sen | Developer Portfolio 🚀
+# Developer Portfolio 🚀
 
 A modern, highly interactive, and responsive developer portfolio built with **React** and **Vite**. Showcasing my projects, skills, education, and professional journey as a Full Stack Developer & AI Enthusiast.
 
@@ -85,3 +85,4 @@ This portfolio is fully ready to be deployed on **Vercel**:
 
 *Built with ❤️ in Kolkata.*
 #
+
